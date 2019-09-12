@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PropertyStorage">
+    <output-path>$PROJECT_DIR$/out/artifacts/PropertyStorage</output-path>
+    <root id="archive" name="PropertyStorage.jar">
+      <element id="module-output" name="propertystorage.PropertyStorage.main" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
